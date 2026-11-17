@@ -1,0 +1,10 @@
+# Derlenmis dosyalar
+polinom
+*.o
+*.out
+*.exe
+
+# Hata ayiklama / editor
+*.dSYM/
+.vscode/
+.idea/
